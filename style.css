@@ -1,0 +1,32 @@
+body{
+  font-family: Sans-Serif;
+  margin: 0;
+
+background-color: #bab3a8;
+color:grey;
+
+}
+
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+img{
+    width:750px;
+    height:500px;
+}
+
+ 
